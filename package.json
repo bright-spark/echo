@@ -1,0 +1,25 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "echo browser capsule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bright-spark/echo.git"
+  },
+  "keywords": [
+    "echo",
+    "browser",
+    "capsule",
+    "firefox"
+  ],
+  "author": "Martin Myburgh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bright-spark/echo/issues"
+  },
+  "homepage": "https://github.com/bright-spark/echo#readme"
+}
