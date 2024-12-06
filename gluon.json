@@ -1,0 +1,13 @@
+{
+  "name": "echo",
+  "vendor": "private",
+  "appId": "com.martinmyburgh.echo",
+  "binaryName": "echo",
+  "version": {
+    "product": "firefox",
+    "version": "133.0"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  }
+}
