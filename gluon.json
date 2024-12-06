@@ -2,7 +2,7 @@
   "name": "echo",
   "vendor": "private",
   "appId": "com.martinmyburgh.echo",
-  "binaryName": "echo",
+  "binaryName": "echo-browser",
   "version": {
     "product": "firefox",
     "version": "133.0"
